@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hada
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS, PHP, and Laravel
+- 👀 Interested in web development
+- 🌱 Currently learning javascript and laravel
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
