@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **['React.js', 'PHP', 'MySQL']**
 
-- 👨‍💻 All of my projects are available at [https://tinyurl.com/26rjsfb5](https://tinyurl.com/26rjsfb5)
+- 👨‍💻 See all of my projects here [https://tinyurl.com/43vruens](https://tinyurl.com/43vruens)
 
 - 📫 How to reach me **m.multahada@gmail.com**
 
