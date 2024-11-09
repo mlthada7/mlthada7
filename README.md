@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hada</h1>
 <h3 align="center">A passionate web developer based in Jakarta</h3>
 
-- 🔭 I’m mainly working with **['React.js', 'Laravel']**
-
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working with **['React.js', 'PHP', 'MySQL']**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/26rjsfb5](https://tinyurl.com/26rjsfb5)
 
 - 📫 How to reach me **m.multahada@gmail.com**
-
-- 📄 Know about my experiences [https://tinyurl.com/4545vbat](https://tinyurl.com/4545vbat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
